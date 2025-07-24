@@ -208,6 +208,10 @@ $RECYCLE.BIN/
 # Development & Testing
 # =============================================================================
 
+# Setup and test runner files
+setup.py
+run_tests.py
+
 # Test files (keep the main test suite)
 test_*.py
 *_test.py
