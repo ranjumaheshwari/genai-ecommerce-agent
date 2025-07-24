@@ -236,15 +236,7 @@ genai_ecom_agent/
 │   │   ├── App.js       # Main React component
 │   │   └── App.css      # Styling
 │   └── public/
-├── tests/               # Test suite
 ├── data/               # Sample datasets
 └── requirements.txt    # Python dependencies
 ```
-
-### Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all tests pass
-5. Submit a pull request
 
